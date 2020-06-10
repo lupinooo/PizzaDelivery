@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Date Personale Clienti Pizzerie>
+  <Clienti>
+    <Client>
+      <Cod>563</Cod>
+      <Nume>Ioana Parvescu</Nume>
+      <Nr Telefon>0722569412</Nr Telefon>
+      <Adresa Strada="Glicinelor" Numarul="12" />
+    </Client>
+  </Clienti>
+</Date Personale Clienti Pizzerie>
